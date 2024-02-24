@@ -1,0 +1,13 @@
+{
+    "name": "plugin68/couponcode",
+    "description": "The plugin suggests discount codes to customers, applying AJAX discount codes. A trick to increase your order value, let's logically create attractive discount codes.",
+    "autoload": {
+        "psr-4": {
+            "plugin68\\couponcode\\": "classes/src/"
+        }
+    },
+    "authors": [{
+        "name": "Plugin68.com"
+    }],
+    "require": {}
+}
